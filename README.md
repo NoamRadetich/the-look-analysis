@@ -1,6 +1,6 @@
 # The Look E-Commerce Analysis
 
-A comprehensive data analysis project using Google BigQuery to extract actionable business insights from The Look—a fictional e-commerce platform. This portfolio project demonstrates end-to-end analytics capabilities including cohort analysis, funnel analysis, and customer segmentation.
+A comprehensive data analysis project using Google BigQuery to extract actionable business insights from The Look—a fictional e-commerce platform. This portfolio project demonstrates end-to-end analytics combining SQL expertise, Python data manipulation, and business intelligence.
 
 ## 📊 Project Overview
 
@@ -14,7 +14,7 @@ This project analyzes e-commerce user behavior and business performance using Bi
 
 ### Cohort Analysis: Monthly User Retention
 
-![Cohort Retention Heatmap](cohort_retention_heatmap.png)
+![Cohort Retention Heatmap](https://github.com/NoamRadetich/the-look-analysis/raw/main/cohort_retention_heatmap.png)
 
 **What it shows:**
 - Each row represents a cohort (users who made their first purchase in that month)
@@ -22,7 +22,7 @@ This project analyzes e-commerce user behavior and business performance using Bi
 - Cell values show the percentage of users who returned to purchase in each subsequent month
 
 **Key takeaway:**
-The retention heatmap reveals user stickiness patterns and helps identify if newer cohorts have stronger or weaker retention compared to historical cohorts. This metric is critical for understanding customer lifetime value and the effectiveness of customer retention strategies.
+The retention heatmap reveals user stickiness patterns and helps identify if newer cohorts have stronger or weaker retention compared to historical cohorts. This metric is critical for understanding customer lifetime value and predicting churn.
 
 ## 🛠️ Skills & Technical Value
 
