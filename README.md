@@ -34,7 +34,7 @@ The RFM model categorizes the customer base into four distinct segments based on
 
 #### 1. Segment Distribution & Volume
 
-![Customer Segment Distribution](https://github.com/NoamRadetich/the-look-analysis/blob/main/segment_distribution.png)
+![Customer Segment Distribution](https://github.com/NoamRadetich/the-look-analysis/blob/main/customer_segment.png)
 
 The analysis reveals a healthy distribution with clear business implications:
 
@@ -45,7 +45,7 @@ The analysis reveals a healthy distribution with clear business implications:
 
 #### 2. Monetary Value Analysis
 
-![Average Spend by Segment](https://github.com/NoamRadetich/the-look-analysis/blob/main/spend_by_segment.png)
+![Average Spend by Segment](https://github.com/NoamRadetich/the-look-analysis/blob/main/spend_per_segment.png)
 
 There is a stark contrast in lifetime value (LTV) across segments:
 
@@ -55,7 +55,7 @@ There is a stark contrast in lifetime value (LTV) across segments:
 
 #### 3. Behavioral Insights: Recency vs. Frequency
 
-![Recency vs. Frequency by Segment](https://github.com/NoamRadetich/the-look-analysis/blob/main/recency_frequency_scatter.png)
+![Recency vs. Frequency by Segment](https://github.com/NoamRadetich/the-look-analysis/blob/main/recency_frequency_per_segment.png)
 
 The scatter plot analysis highlights clear behavioral boundaries:
 
