@@ -14,7 +14,7 @@ This project analyzes e-commerce user behavior and business performance using Bi
 
 ### Cohort Analysis: Monthly User Retention
 
-![Cohort Retention Heatmap](https://github.com/NoamRadetich/the-look-analysis/raw/main/cohort_retention_heatmap.png)
+![Cohort Retention Heatmap](https://github.com/NoamRadetich/the-look-analysis/blob/main/heatmap.png)
 
 **What it shows:**
 - Each row represents a cohort (users who made their first purchase in that month)
